@@ -25,6 +25,7 @@ Methodology
    Neoplasms
    Nervous system diseases
    General pathological conditions
+   Data Source: Kaggle
 2. Text Representation
    TF-IDF vectorization
    Unigrams and bigrams (Both unigrams (individual words) and bigrams (two-word phrases) were used to capture not only individual terms but also clinically meaningful expressions such as 'prostate cancer')
